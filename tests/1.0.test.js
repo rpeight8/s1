@@ -1,4 +1,4 @@
-const isNullOrUndefined = require('../1.js');
+const isNullOrUndefined = require('../1.0.js');
 
 describe('isNullOrUndefined', () => {
     test('should return true for null', () => {
